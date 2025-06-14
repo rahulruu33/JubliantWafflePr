@@ -23,6 +23,7 @@ public class TestClass4 {
 //        ArrayList<Integer> integerList1  = new ArrayList<>(new HashSet<>(integerList));
 
         String name = "LiFe is Awesome";
+         ArrayList<Integer> integerList = Arrays.asList(1, 2, 4, 5, 6, 2, 4);
 
     }
 }
