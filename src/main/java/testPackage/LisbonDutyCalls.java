@@ -12,8 +12,19 @@ public class LisbonDutyCalls {
         System.out.println("LisbonDutyCalls: testMethod executed");
     }
 
+    public void testMethodLocal3() {
+        // This is a local test method in LisbonDutyCalls
+        System.out.println("LisbonDutyCalls: testMethodLocal executed");
+    }
+
+    public void anotherTestMethodlocal() {
+        // Another test method in LisbonDutyCalls
+        System.out.println("LisbonDutyCalls: anotherTestMethod executed");
+    }
+
     public void anotherTestMethod() {
         // Another test method in LisbonDutyCalls
+        // This method is used to demonstrate functionality
         System.out.println("LisbonDutyCalls: anotherTestMethod executed");
     }
 
