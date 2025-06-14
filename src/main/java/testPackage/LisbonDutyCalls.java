@@ -17,6 +17,10 @@ public class LisbonDutyCalls {
         System.out.println("LisbonDutyCalls: anotherTestMethod executed");
     }
 
+        public void anotherTestMethodRemoteRpo() {
+        // Another test method in LisbonDutyCallss
+    }
+
     //write me a method that prints the last 5 characters of a string
     public void printLastFiveCharacters(String input) {
         if (input != null && input.length() >= 5) {
@@ -33,7 +37,7 @@ public class LisbonDutyCalls {
         List<String> neighboringCountries = Arrays.asList("Spain", "Andorra", "France");
 
         // Check if the input country is in the list of neighboring countries
-        return neighboringCountries.contains(country);
+        return true;
     }
 
     //The movie ends here 9.20 am 
