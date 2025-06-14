@@ -15,7 +15,7 @@ public class LisbonDutyCalls {
         System.out.println("LisbonDutyCalls: anotherTestMethod executed");
     }
 
-    //writr me a method that prints the last 5 characters of a string
+    //write me a method that prints the last 5 characters of a string
     public void printLastFiveCharacters(String input) {
         if (input != null && input.length() >= 5) {
             String lastFive = input.substring(input.length() - 5);
