@@ -26,4 +26,8 @@ public class TestClass4 {
          ArrayList<Integer> integerList = Arrays.asList(1, 2, 4, 5, 6, 2, 4);
 
     }
+
+    public void method2Test(){
+         String name = "Nancy nancy";
+    }
 }
